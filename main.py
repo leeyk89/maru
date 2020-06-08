@@ -1,2 +1,2 @@
-print('hello maru ai coding')
+index = 1
 print('branch test')
